@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<!-- 设置为IUserDao接口方法提供sql语句配置 -->
+<mapper namespace="edu.njcc.rj1621.dao.UserDao">
+
+    <select id="selectUser" resultType="User" parameterType="String">
+        SELECT * FROM User WHERE username = #{username}
+    </select>
+    <select id="addUser" parameterType="User">
+        insert into User values(#{username},
+                                #{password})
+    </select>
+    <select id="removeUser" parameterType="String">
+        delete from User where username = #{username}
+    </select>
+    <select id="modifyUser" parameterType="User">
+        update User set password = #{password} where username = #{username}
+    </select>
+
+    <resultMap id="userList" type="edu.njcc.rj1621.domain.User">
+            <result column="username" property="username"></result>
+            <result column="password" property="password"></result>
+    </resultMap>
+
+    <select id="selectUserList" resultMap="userList">
+        select * from USER ;
+    </select>
+</mapper>

@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dedd3bf3-a34f-4b56-9ae2-da3c4d9db0c7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/User" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/domain/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/service/UserSvc.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/service/Impl/UserSvcImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/edu/njpi/rj1621/dao/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/njpi/rj1621/dao/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/edu/njcc/rj1621/dao/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mapper/User.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\idea\maven\myRepository\repository" />
+        <option name="mavenHome" value="E:/idea/maven/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\idea\maven\myRepository\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="110" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rj1621" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Test02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Test02" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rj1621" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TestSSM" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\SSMProject01\Test02\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.UserDaoTest.testselectUserList">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="UserDaoTest.testSelectUser (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestSSM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.njcc.rj1621.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.njcc.rj1621.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.njcc.rj1621.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="testSelectUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserDaoTest.testaddUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestSSM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.njcc.rj1621.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.njcc.rj1621.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.njcc.rj1621.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="testaddUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserDaoTest.testdeleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestSSM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.njcc.rj1621.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.njcc.rj1621.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.njcc.rj1621.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="testdeleteUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserDaoTest.testselectUserList" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="TestSSM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.njcc.rj1621.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.njcc.rj1621.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.njcc.rj1621.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="testselectUserList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="UserDaoTest.testupdateUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestSSM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.njcc.rj1621.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="edu.njcc.rj1621.dao" />
+      <option name="MAIN_CLASS_NAME" value="edu.njcc.rj1621.dao.UserDaoTest" />
+      <option name="METHOD_NAME" value="testupdateUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserDaoTest.testselectUserList" />
+      <item itemvalue="JUnit.UserDaoTest.testSelectUser (1)" />
+      <item itemvalue="JUnit.UserDaoTest.testaddUser" />
+      <item itemvalue="JUnit.UserDaoTest.testdeleteUser" />
+      <item itemvalue="JUnit.UserDaoTest.testupdateUser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserDaoTest.testupdateUser" />
+        <item itemvalue="JUnit.UserDaoTest.testdeleteUser" />
+        <item itemvalue="JUnit.UserDaoTest.testaddUser" />
+        <item itemvalue="JUnit.UserDaoTest.testSelectUser (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dedd3bf3-a34f-4b56-9ae2-da3c4d9db0c7" name="Default" comment="" />
+      <created>1527747556585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527747556585</updated>
+      <workItem from="1527747560821" duration="6490000" />
+      <workItem from="1527754393622" duration="111000" />
+      <workItem from="1527754533567" duration="50000" />
+      <workItem from="1527754791998" duration="360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserDaoTest_testdeleteUser - 2018.05.31 at 15h 38m 09s.xml">
+      <configuration name="UserDaoTest.testdeleteUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testupdateUser - 2018.05.31 at 15h 39m 18s.xml">
+      <configuration name="UserDaoTest.testupdateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testupdateUser - 2018.05.31 at 15h 40m 32s.xml">
+      <configuration name="UserDaoTest.testupdateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testupdateUser - 2018.05.31 at 15h 41m 01s.xml">
+      <configuration name="UserDaoTest.testupdateUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testselectUserList - 2018.05.31 at 15h 55m 04s.xml">
+      <configuration name="UserDaoTest.testselectUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testselectUserList - 2018.05.31 at 15h 56m 25s.xml">
+      <configuration name="UserDaoTest.testselectUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testselectUserList - 2018.05.31 at 15h 57m 16s.xml">
+      <configuration name="UserDaoTest.testselectUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testselectUserList - 2018.05.31 at 16h 00m 36s.xml">
+      <configuration name="UserDaoTest.testselectUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testselectUserList - 2018.05.31 at 16h 02m 01s.xml">
+      <configuration name="UserDaoTest.testselectUserList" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_testselectUserList - 2018.05.31 at 16h 07m 25s.xml">
+      <configuration name="UserDaoTest.testselectUserList" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7011000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.1185567" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.09450172" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27912253" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.22508591" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="right" id="JSF" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3934708" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="CDI" order="3" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/User.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/dao/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/domain/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/service/UserSvc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/service/Impl/UserSvcImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/njcc/rj1621/dao/UserDaoTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/controller/q.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/njpi/rj1621/q.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/User" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/njpi/rj1621/dao/UserDaoTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/edu.njcc.rj1621/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/njcc/rj1621/a.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/dao/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mvc.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-mybatis.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/domain/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/service/UserSvc.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/njcc/rj1621/service/Impl/UserSvcImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/User.xml" />
+    <entry file="file://$PROJECT_DIR$/TestSSM.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/edu/njcc/rj1621/dao/UserDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
